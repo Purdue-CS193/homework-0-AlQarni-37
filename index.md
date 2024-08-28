@@ -2,7 +2,7 @@
 
 Hi! Here's some things I like about this course:
 - The silly icebreakers at the start of each lecture.
-- The absence of iClicker to take attendance.
+- No iClicker.
 - Learning new things about the terminal.
 - The memes.
 
